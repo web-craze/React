@@ -8,6 +8,7 @@ class CustomRowHeader extends Component {
 
   render() {
 
+    // react props
     const { headers } = this.props;
 
     return (
